@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 634c55377989740518ad7d4f97848a43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - texture: {fileID: 2800000, guid: efa8529951a5145f39370d90be7fd469, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
